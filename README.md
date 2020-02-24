@@ -1,7 +1,7 @@
 ### Directory Payload List
 
 <p align="center">
-  <img src="https://github.com/payloadbox/directory-payload-list/blob/master/img/directory-image.jpg">
+  <img src="https://github.com/payloadbox/directory-payload-list/blob/master/img/directory-image.jpg"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/directory-payload-list?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/directory-payload-list?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/directory-payload-list"> <img src="https://img.shields.io/github/license/payloadbox/directory-payload-list"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/directory-payload-list/1">
 </p>
 
 #### Overview :
