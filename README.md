@@ -16,6 +16,18 @@ Our goal is to create this repo. A regular web application was to create payload
 * [DirBuster](https://tools.kali.org/web-applications/dirbuster)
 * [Burp Suite Intruder Feature](https://portswigger.net/burp/documentation/desktop/tools/intruder/using)
 
+This last release contains payload information in the list below.
+
+- default
+- drupal
+- joomla
+- sap
+- sharepoint
+- tomcat
+- weblogic
+- webshare
+- wordpress
+
 #### References :
 
 👉 [A6-Security Misconfiguration](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A6-Security_Misconfiguration)
